@@ -1,4 +1,4 @@
-# Projet-LO21
+# C++ calculator project
 
 Ce projet servait à se faire la main lors de l'apprentissage du C++ et de la POO.
 Il consiste en une calculatrice fonctionnant en Reverse Polish Notation avec comme fonctions principales :
